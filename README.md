@@ -1,6 +1,6 @@
 # Tugas_Final_Kecerdasan-Komputasi
 >>  Representasi kasus Travelling Salesman Problem (TSP) menggunakan teknik Strategi Evolusioner (ES) untuk mencari rute terpendek.
->> Program ini dibuat menggunakan bahasa pemrograman Delphi 2010. Dengan langkah-langkah sebagai berikut:
+>> Program ini dibuat menggunakan bahasa pemrograman Delphi 2010. Menggunakan sistem operasi Windows 8 32 Bit dengan langkah-langkah sebagai berikut:
 
 unit TSP_SE;
 
